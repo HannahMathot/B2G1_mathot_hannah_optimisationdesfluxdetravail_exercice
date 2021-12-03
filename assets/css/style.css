@@ -26,7 +26,7 @@ img{
     bottom: 3%;
     right: 5%;
     background-color: rgb(36, 98, 117);
-    box-shadow: 5px 5px 10px black;
+    box-shadow: 5px 5px 10px rgb(8, 20, 24);;
     padding-left: 192px;
     padding-right: 192px;
 }
