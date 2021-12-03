@@ -7,11 +7,27 @@ body{
     background-position-y: center;
     overflow-y: hidden;
     overflow-x: hidden;
-    color: white;
+    color: black;
 }
 
 h1{
     position: absolute;
     top: 3%;
-    right: 3%;
+    right: 5%;
+    font-size: 70px;
+    background-color: rgb(255, 0, 76);
+    padding: 10px;
+    box-shadow: 5px 5px 10px rgb(65, 0, 19);
+}
+
+p{
+    font-size: 20px;
+    position: absolute;
+    top: 20%;
+    right: 5%;
+    max-width: 450px;
+    line-height: 1.7;
+    background-color: white;
+    padding: 15px;
+    box-shadow: 5px 5px 10px rgb(41, 41, 41);
 }
