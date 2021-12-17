@@ -15,7 +15,7 @@ h1{
     top: 3%;
     right: 5%;
     font-size: 70px;
-    background-color: firebrick;
+    background-color: rgb(255, 0, 0);
     padding: 10px;
     box-shadow: 5px 5px 10px rgb(65, 0, 19);
 }
